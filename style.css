@@ -1,0 +1,15 @@
+#mag{
+	position:relative;
+	margin:0 auto;
+	width:400px;
+	height:300px;
+	border:1px solid black;
+	/* overflow:hidden; */
+}
+button{margin-left:450px}
+
+.tovar{
+	width:400px;
+	height:300px;
+	background-size:100% 100%;
+}
